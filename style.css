@@ -215,6 +215,10 @@ footer .lastLine {
         background-color: #dc3545;
         border: none;
     }
+    .carousel-control-prev,
+    .carousel-control-next {
+        display: none;
+    }
 }
 
 
